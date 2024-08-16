@@ -19,3 +19,5 @@ When registering (new account), need to authenticate the account via email
 When logging in (if the account is not authenticated), need to authenticate via email
 
 When forgetting the password, need to confirm via email
+
+# branch main
